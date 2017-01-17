@@ -31,3 +31,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-sonyericsson
 
 # Custom tag for unofficial builds
 TARGET_UNOFFICIAL_BUILD_ID := LegacyXperia
+
+# Include SU binary
+WITH_SU := true
